@@ -7,8 +7,8 @@
   margin-top: 1rem;
 }
 body{
-  background-color: #f3e6e8;
-  background-image: linear-gradient(315deg, #f3e6e8 0%, #d5d0e5 74%);
+  background-color: #deebdd;
+background-image: linear-gradient(315deg, #deebdd 0%, #bbdbbe 74%);
 }
 .recipe {
   display: flex;
@@ -16,10 +16,10 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 20vh;
-  width: 25rem;
+  width: 20rem;
   padding: 0.5rem;
   margin: 1rem;
-  border: 1px solid rgb(168, 168, 168);
+  border: 1px solid rgb(12, 0, 0);
   border-radius: 5px;
   cursor: pointer;
   transition: all 0.2s easeS;
@@ -32,12 +32,12 @@ body{
 
 .recipe h2 {
   font-size: 2rem;
-  font-weight: 700;
+  font-weight:700;
   text-align: center;
 }
 
 .recipe img {
-  width: 100%;
+  width: 20rem;
 }
 
 

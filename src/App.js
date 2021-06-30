@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Search Your Recipe</h1>
+      <h1>Find Awesome Recipes Here!</h1>
       {/* Search Form */}
       <form className="form-control" onSubmit={submitHandler}>
         <input
